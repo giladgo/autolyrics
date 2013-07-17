@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    id3 (0.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  id3 (~> 0.5.0)
